@@ -1,6 +1,5 @@
 #!/bin/sh
 # Upload databse.db to Github
-pwd
 cd /home/pi/Desktop/database/
 git add *
 git commit -m "upload database.db"
